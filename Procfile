@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run stock.py --global.dataFrameSerialization="legacy"
+web: sh setup.sh && streamlit run stockreport.py --global.dataFrameSerialization="legacy"
